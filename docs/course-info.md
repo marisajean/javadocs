@@ -32,9 +32,9 @@ nav_order: 0
 
 ## Assignments & Grading
 
-> Assignments in this course include: **PROJECTS** (40% of overall grade), **HOMEWORK** (30% of overall grade), and **CLASSWORK** (30% of overall grade). _See below for details, procedures, and grading policies_.
+> Assignments in this course include: PROJECTS (35% of overall grade), HOMEWORK (25% of overall grade), CLASSWORK (15% of overall grade), and ASSESSMENTS (25%). See below for details, procedures, and grading policies.
 
-### PROJECTS (40%)
+### PROJECTS (35%)
 * 💻 **Projects** serve as the bulk of our coursework. Expect at least one major coding project assigned per unit, to which we will dedicate several weeks of class time.
   * Projects involve writing full programs that have rigorous requirements designed to test your technical skills, however, plenty of **support** is available during class time and office hours to ensure all targets are met. 
   * As such, the grades you earn on projects will depend heavily on your 🎨 **creative effort**.
@@ -102,14 +102,13 @@ nav_order: 0
 </details>
 </html>
 
-* 💯 **GRADE IMPROVEMENT POLICY**: You may <span class="highlighter">re-submit projects for a full RE-GRADE</span>, but you must email me to let me know which project, and it must be completed at least one week BEFORE the end of the current quarter.
-  * When re-working your projects, you are encouraged to come to **office hours** for help or additional feedback. I am way more likely to grade your work favorably if you have shown effort towards improving your skills...
+* 💯 **GRADE IMPROVEMENT POLICY**: Upon approval, you may <span class="highlighter">re-submit projects for a full RE-GRADE</span>, but you must email me to let me know which project. All regrades must be completed BEFORE the end of the following unit’s project. Once I receive your email, I will respond with a confirmed re-submission due date. When re-working your projects, you are encouraged to come to office hours for help or additional feedback. I am way more likely to grade your work favorably if you have shown effort towards improving your skills…
   * Coding is an **iterative process** which means it is VERY normal not to have your programs working perfectly the first time! Programmers often have to edit their code many times.
   
 {: .warning .fs-3 }
 📧 You must **SEND ME AN EMAIL** whenever you update or resubmit a project, especially after the assignment has been graded on Blackbaud! _Otherwise I will not be notified._
 
-### HOMEWORK (30%)
+### HOMEWORK (25%)
 * 💬 **Homework** is assigned in the form of a `CodeCollab`: like posting on a discussion board, but instead of talking about a book or article, the class has a shared goal of figuring out how some 🔍 mystery code works.
 
 * _Homework assignments follow this workflow:_
@@ -125,7 +124,7 @@ CodeCollabs are always **due on `Fridays @ 11:59PM`**❗
 {: .warning .fs-3 }
 📧 You must **SEND ME AN EMAIL** whenever you submit homework late, especially after the assignment has been graded on Blackbaud! _Otherwise I will not be notified._
 
-### CLASSWORK (30%)
+### CLASSWORK (15%)
 * 📝 **Classwork** involves a mix of note-taking lessons and interactive coding activities.
   * 📓 **Notes:** Each unit begins with a series of tutorial-style lessons where you will write code alongside the instructor, learning new concepts through practical demonstrations while building your own working program to use as a reference.
   * 🎯 **Activities:** Between note-taking sessions, you will also be tasked with coding exercises that provide you opportunities to check your understanding, play around with new skills, think creatively, practice debugging, solve challenges, and collaborate with peers. _Think of these activities as mini-projects._

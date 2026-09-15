@@ -135,6 +135,10 @@ Expect at least one classwork-type assignment to be **graded** each week: Either
 {: .warning .fs-3 }
 ‼️ If you are **ABSENT**, you are expected to take initiative to catch up on any missed classwork! _Everything_ we cover in class is on the **course website**. Refer to the **Blackbaud** classwork assignment each week to see which 📓 **note sections** were covered or which 🎯 **activities** need to be completed. 
 
+### ASSESSMENTS (25%)
+* 📚 **Assessments** may take a variety of formats, but will largely be in-class assignments similar to homework discussions using exam.net to assess students analysis without the use of AI. Students may also be asked to write pseudo-code for a program, debug code by hand, or present their coding project to the class for review. Assessments are meant to be challenging additions to the course to push students towards proficient coding, leadership, and independent thinking.
+
+
 ---
 
 ## Expectations & Policies

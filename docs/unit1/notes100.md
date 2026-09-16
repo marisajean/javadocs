@@ -25,7 +25,7 @@ response questions where you have to write Java code. 📝 Each part is worth
 50% of your grade. 
 
 {: .highlight }
-During the exam, you will have access to the [AP CSA Reference Sheet](https://apstudents.collegeboard.org/ap/pdf/ap-computer-science-a-java-quick-reference_0.pdf).
+During the exam, you will have access to the [AP CSA Reference Sheet](https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-java-quick-reference.pdf).
 
 For more information on the exam see the College Board [AP CSA site](https://apstudent.collegeboard.org/apcourse/ap-computer-science-a). The College Board provides a question bank and formative assessment quizzes for each unit online
 for registered AP classes.

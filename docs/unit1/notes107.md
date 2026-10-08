@@ -41,7 +41,7 @@ APIs and libraries are essential to programming because they allow you to use co
 
 <div class="task" markdown="block">
 
-💬 **Discuss:** Did we use any *libraries* last year in Web Development for either `HTML`, `CSS`, or `JavaScript`? If so, how did we learn how to use someone else's code?
+💬 **Discuss:** Turn to your neighbor and discuss the difference between the terms. 
 
 </div>
 
@@ -54,17 +54,6 @@ Take a look at the summary for the `java.lang` package here: [Oracle – Java Do
 
 📖 **Documentation** found in API specifications and libraries is essential to understanding the _attributes_ and _behaviors_ of a class defined by the API. 
 > The ``System`` class has an object called ``out`` that is type ``PrintStream``, and the ``PrintStream`` class has a method called ``println()`` that we use to print to the screen. 
-
-<div class="task" markdown="block">
-
-**Check Your Understanding:**  
-
-1. How many distinct `println(...)` methods are listed in the `PrintStream` class [official documentation](https://docs.oracle.com/javase/8/docs/api/java/io/PrintStream.html)?
-2. Try finding the same documentation on **DevDocs**, an unofficial collection of documentation (_linked in the top right corner of this website_).
-  > Would you prefer using the official docs from Oracle, or DevDocs?
-3. Try asking an **AI bot** like ChatGPT the original question (_"how many println methods does Java have?"_) and determine if it produces a correct answer. 
-
-</div>
 
 ### Turtle Library
 
